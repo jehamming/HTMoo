@@ -1,0 +1,11 @@
+HTMOO - http://htmoo.sourceforge.net/
+
+An mud/moo client that is able to process HTML tags like <img>, <form>, etc.
+
+I'm working on a MCP implementation (userlist, etc). 
+
+Currently testing against nowmoo (www.nowmoo.nl)
+
+Its in pre-alpha stage.
+
+Jan-Egbert Hamming (jehamming@gmail.com)
